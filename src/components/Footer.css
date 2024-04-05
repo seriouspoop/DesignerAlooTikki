@@ -1,0 +1,28 @@
+.search_block{
+    width:100%;
+}
+.footer{
+    height: 10%;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    bottom:0;
+    justify-content: space-around;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 10px -10px 50px 2px rgb(224, 208, 216) ;
+}
+.footer_img1{
+    width:50px;
+    height: 50px;
+    margin-top: -12px;
+}
+.footer_img{
+
+}
+.footer_img img{
+    width: 50px;
+    height: 50px;
+    margin-top: 7px;
+}
